@@ -1,0 +1,2 @@
+# MYSQL-script
+class assignment
